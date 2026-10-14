@@ -1,0 +1,56 @@
+export const funnelStages = [
+  { label: "Impressions & Views",    value: 8420, percent: 100,  percentLabel: "100%",  color: "#374151" },
+  { label: "Inquiries Received",     value: 184,  percent: 21.8, percentLabel: "21.8%", color: "#374151" },
+  { label: "Qualified Active Leads", value: 19,   percent: 10.3, percentLabel: "10.3%", color: "#C88A1A" },
+  { label: "Site Visits Conducted",  value: 12,   percent: 63.1, percentLabel: "63.1%", color: "#3B82F6" },
+  { label: "Price Negotiation",      value: 5,    percent: 41.6, percentLabel: "41.6%", color: "#8B5CF6" },
+  { label: "Deals Closed & Converted", value: 2,  percent: 40.0, percentLabel: "40.0%", color: "#10B981" },
+];
+
+export const topProperties = [
+  {
+    id: 1,
+    title: "Imperial Heights Suite",
+    price: "₹95 Lakh",
+    image: "https://your-image.jpg",
+    views: 2890,
+    leads: 42,
+    visits: 18,
+  },
+  {
+    id: 2,
+    title: "Azure Marina Waterfront",
+    price: "₹3.10 Cr",
+    image: "https://your-image.jpg",
+    views: 1650,
+    leads: 19,
+    visits: 7,
+  },
+  {
+    id: 3,
+    title: "Skyline Lumina Loft",
+    price: "₹1.80 Lakh/mo",
+    image: "https://your-image.jpg",
+    views: 760,
+    leads: 9,
+    visits: 3,
+  },
+  {
+    id: 4,
+    title: "The Grand Bel-Air Resi...",
+    price: "₹2.20 Cr",
+    image: "https://your-image.jpg",
+    views: 3410,
+    leads: 29,
+    visits: 14,
+  },
+  {
+    id: 5,
+    title: "The Sovereign Pentho...",
+    price: "₹1.45 Cr",
+    image: "https://your-image.jpg",
+    views: 2190,
+    leads: 31,
+    visits: 11,
+  },
+];
