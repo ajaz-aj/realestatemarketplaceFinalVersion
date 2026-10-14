@@ -1,6 +1,6 @@
 import Layout from "../components/Layout";
 import Hero from "../components/Hero";
-import Newsletter from "../components/Newsletter";
+import Newsletter from "../components/NewsLetter";
 import FeatureSection from "../components/FeatureSection";
 import Transaction from "../components/Transaction";
 import Collection from "../components/Collections";
